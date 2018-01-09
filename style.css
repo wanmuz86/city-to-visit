@@ -1,0 +1,32 @@
+body {
+	background-color: honeydew;
+}
+h1 {
+	color:yellow;
+	background-color: rgba(37,28,213, 0.5);
+	font-size: 50pt;
+	border : 1px green solid;
+	border-radius: 10px;
+}
+p {
+	color: rgb(27,48,75);
+	text-align: justify;
+	font-family: 'Roboto', sans-serif;
+	border : 1px blue dashed;
+}
+
+h1,h2,h3 {
+	text-align: center;
+	font-family: 'Sedgwick Ave Display', cursive;
+}
+h2, h3 {
+	color: grey;
+	border-top: 1px black solid;
+	border-bottom: 3px black solid;
+}
+h2 {
+	font-size: 30pt;
+}
+h3 {
+	font-size: 16pt;
+}
